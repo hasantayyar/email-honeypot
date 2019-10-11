@@ -1,4 +1,4 @@
 # Honeypot for Email Crawler
 
-[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/hasantayyar/email-honeyhasantayyar/email-honeypot.git)
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/hasantayyar/email-honeypot.git)
 
